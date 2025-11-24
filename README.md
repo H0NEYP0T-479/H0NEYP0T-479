@@ -1,49 +1,49 @@
-# 👋 Hi, I'm **[SHOAIB]** — Passionate [DEVOLPER]
+# 👋 Hi, I'm SHOAIB RAFIQ
 
 ### 🚀 Crafting Scalable Solutions with Modern Technologies
 
 ---
 
 ## 🧑‍💻 About Me
-Hi! I'm a **[Job Title, e.g., Full Stack Developer]** with a strong focus on building clean, efficient, and scalable applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+Hi! I'm a programmer with a strong focus on building clean, efficient, and scalable applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-- 🌍 Based in: **[Your Location]**
+- 🌍 Based in: lahore
 - 💡 I love exploring new technologies and enhancing my skill set.
 - 🤝 Open to collaborations on exciting projects.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages & Frameworks:**
+ 🛠️ Tech Stack
+Languages & Frameworks:
 - JavaScript, TypeScript
 - React.js, Next.js
 - Node.js, Express
 - Python, Django / Flask
 
-**Databases:**
+Databases:
 - MongoDB
 - MySQL / PostgreSQL
 
-**Tools & Platforms:**
+Tools & Platforms:
 - Git & GitHub
-- Docker
 - VS Code
-- Postman
+- Figma
+
 
 ---
 
-## 📚 What I'm Currently Learning
+📚 What I'm Currently Learning
 - Advanced Node.js Architecture
 - Cloud Services (AWS / GCP)
 - DevOps Essentials
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: **your.email@example.com**
-- 💼 LinkedIn: **[Your LinkedIn URL]**
-- 🌐 Portfolio: **[Your Website]**
+📫 How to Reach Me
+- 📧 Email:shoaibmayo0479@gmail.com
+
+
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
+⭐ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
