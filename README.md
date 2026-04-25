@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=900&height=70&lines=Full-Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F;BSCS+Student+%40+LGU+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-[![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="480"/>
 
 [![](https://img.shields.io/badge/Status-Building_Cool_Things-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000)](https://github.com/H0NEYP0T-479)
 [![](https://img.shields.io/badge/Focus-Full--Stack_&_ML-ff00ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://github.com/H0NEYP0T-479)
