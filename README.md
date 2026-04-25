@@ -1,111 +1,176 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Shoaib%20Rafiq&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20BSCS%20@%20LGU&descAlignY=62&descSize=18&descColor=aaaaaa)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHOAIB%20RAFIQ&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+%26+scalable+applications;Exploring+AI+%2F+ML+%26+Computer+Vision;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=900&height=70&lines=Full-Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F;BSCS+Student+%40+LGU+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-<br/>
+[![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-rafiq)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shoaibmayo0479@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/H0NEYP0T-479)
-[![Profile Views](https://komarev.com/ghpvc/?username=H0NEYP0T-479&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/H0NEYP0T-479)
+[![](https://img.shields.io/badge/Status-Building_Cool_Things-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000)](https://github.com/H0NEYP0T-479)
+[![](https://img.shields.io/badge/Focus-Full--Stack_&_ML-ff00ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://github.com/H0NEYP0T-479)
+[![](https://img.shields.io/badge/Mode-Always_Shipping-00ffff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)](https://github.com/H0NEYP0T-479)
+
+[![](https://komarev.com/ghpvc/?username=H0NEYP0T-479&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/H0NEYP0T-479)
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+[![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+## 🧠 SYSTEM.INITIALIZE()
 
 ```python
 class ShoaibRafiq:
-    name       = "Shoaib Rafiq"
-    location   = "Lahore, Pakistan 🇵🇰"
-    university = "Lahore Garrison University"
-    degree     = "BSCS — 6th Semester"
-    email      = "shoaibmayo0479@gmail.com"
+    def __init__(self):
+        self.username    = "H0NEYP0T-479"
+        self.name        = "Shoaib Rafiq"
+        self.location    = "Lahore, Pakistan 🇵🇰"
+        self.role        = "Full-Stack Developer & ML Enthusiast"
+        self.university  = "Lahore Garrison University"
+        self.degree      = "BSCS — 6th Semester"
+        self.email       = "shoaibmayo0479@gmail.com"
 
-    focus      = ["Full-Stack Development", "Machine Learning", "Cloud Computing"]
+    @property
+    def tech_stack(self):
+        return {
+            "languages":     ["Python", "JavaScript", "TypeScript", "C/C++"],
+            "frontend":      ["React", "Next.js", "TailwindCSS", "Vite"],
+            "backend":       ["Node.js", "Express", "Flask", "FastAPI", "Django"],
+            "databases":     ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
+            "ml_ai":         ["Computer Vision", "Deep Learning", "ViT", "U-Net",
+                              "scikit-learn", "PyTorch", "OpenCV"],
+            "cloud_devops":  ["AWS", "GCP", "Docker", "Git & GitHub", "Vercel", "Render"],
+        }
 
-    currently  = [
-        "🔭 Building ViT-UNet Lung Cancer Detection System",
-        "☁️  Mastering AWS & Cloud Architecture",
-        "🤖 Exploring Multi-Agent AI Systems",
-        "📦 Shipping production-ready web applications",
-    ]
+    def flagship_projects(self):
+        return {
+            "ViT-UNet-LC":    "Lung cancer classification + segmentation — hybrid ViT + U-Net on LC25000",
+            "MERN-Apps":      "Full-stack web applications — React + Node.js + MongoDB + JWT auth",
+            "AWS-Cloud-Lab":  "Cloud infrastructure — EC2 + S3 + IAM deployment pipelines",
+            "NLP-Classifier": "Sentiment analysis — Multinomial Naive Bayes on IMDB 50K reviews",
+        }
 
-    fun_fact   = "I turn complex problems into simple, elegant solutions 🚀"
+    def current_mission(self):
+        return [
+            "🤖 Building AI-powered full-stack applications",
+            "🧬 Researching Vision Transformers for medical imaging",
+            "☁️  Mastering Cloud Services (AWS / GCP)",
+            "📦 Shipping production-ready web applications",
+            "🎓 Leveling up through BSCS @ LGU",
+        ]
 ```
 
-<br/>
+[![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ TECH ARSENAL
 
-| Category | Technologies |
+### 🤖 AI / ML & Computer Vision
+
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/H0NEYP0T-479)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/H0NEYP0T-479)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F79316?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![ViT](https://img.shields.io/badge/Vision_Transformer-6E40C9?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/H0NEYP0T-479)
+[![U-Net](https://img.shields.io/badge/U--Net_Segmentation-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/H0NEYP0T-479)
+
+### 🌐 Full-Stack (MERN + FastAPI)
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
+[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://github.com/H0NEYP0T-479)
+
+### 🗄️ Databases & Storage
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)
+
+### 🚀 Cloud & DevOps
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
+
+### 👨‍💻 Languages
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://javascript.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
+
+[![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+---
+
+## 🎯 FEATURED PROJECTS
+
+| | |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F79316?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **🧬 ViT-UNet Lung Cancer Detector** <br><br> **Lung Cancer Classification + Segmentation** <br><br> **Tech:** PyTorch · ViT · U-Net · Flask · React/Vite <br><br> ```python research = { "architecture": "Hybrid ViT + U-Net", "dataset": "LC25000 (lung & colon)", "tasks": ["Classification", "Segmentation"], "stack": "Flask Backend + React Frontend", "approach": "Transformer-based medical imaging" }``` | **🌐 Full-Stack MERN Applications** <br><br> **Scalable Web Apps with Modern Stack** <br><br> **Tech:** React · Node.js · MongoDB · Express · JWT <br><br> ```python app = { "frontend": "React + TailwindCSS + Vite", "backend": "Node.js + Express REST APIs", "database": "MongoDB + PostgreSQL", "auth": "JWT-based authentication", "style": "Clean, responsive, modern UI" }``` |
+| **☁️ AWS Cloud Lab Projects** <br><br> **Cloud Infrastructure & Deployment** <br><br> **Tech:** AWS · EC2 · S3 · IAM · Cloud Architecture <br><br> ```python lab = { "platform": "Amazon Web Services", "services": ["EC2", "S3", "IAM"], "tasks": "Instance setup + storage", "course": "CSC 382 Cloud Computing @ LGU", "outcome": "Production deployment pipelines" }``` | **🤖 NLP Sentiment Classifier** <br><br> **IMDB 50K Reviews Analysis Pipeline** <br><br> **Tech:** Python · scikit-learn · Naive Bayes · NLP <br><br> ```python model = { "algorithm": "Multinomial Naive Bayes", "dataset": "IMDB 50,000 Reviews", "task": "Binary Sentiment Classification", "pipeline": "Production-grade NLP pipeline", "course": "ML Assignment @ LGU" }``` |
 
-<br/>
+[![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-| Project | Tech | Description |
-|---|---|---|
-| 🧬 **ViT-UNet Lung Cancer Detector** | PyTorch · Flask · React · Vite | Hybrid Vision Transformer + U-Net for lung cancer classification & segmentation on the LC25000 dataset |
-| 🌐 **Full-Stack MERN Applications** | React · Node.js · MongoDB · Express | Scalable web apps with JWT auth, REST APIs, and responsive UI |
-| ☁️ **AWS Cloud Lab** | EC2 · S3 · IAM | Cloud infrastructure setup, storage integration & deployment pipelines on AWS |
-| 🤖 **NLP Sentiment Classifier** | Python · scikit-learn · NLP | Multinomial Naive Bayes classifier trained on IMDB 50K reviews |
+![GitHub Streak](https://streak-stats.demolab.com?user=H0NEYP0T-479&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
-<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H0NEYP0T-479&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117)](https://github.com/H0NEYP0T-479)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H0NEYP0T-479&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=H0NEYP0T-479&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0NEYP0T-479&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=H0NEYP0T-479&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
-
-</div>
-
-<br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=H0NEYP0T-479&custom_title=Shoaib's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true)
 
 ---
 
-## 📈 Contribution Graph
+## 🌐 Connect With Me
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-rafiq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibmayo0479@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H0NEYP0T-479)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=H0NEYP0T-479&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Shoaib's%20Contribution%20Graph)](https://github.com/H0NEYP0T-479)
+[![](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
-</div>
+[![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<br/>
+---
+
+### ✍️ Thoughts Behind the Syntax
+
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+[![Snake animation](https://profile-readme-generator.com/assets/snake.svg)](https://github.com/H0NEYP0T-479)
 
 ---
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11,2&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65)](https://github.com/H0NEYP0T-479)
 
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&fontColor=ffffff&animation=fadeIn)
+[![Made with 🤍](https://img.shields.io/badge/Made%20with-%F0%9F%A4%8D-blueviolet?style=for-the-badge)](https://github.com/H0NEYP0T-479)
 
 </div>
+
+[![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
